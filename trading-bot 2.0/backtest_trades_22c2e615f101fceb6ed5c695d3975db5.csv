@@ -1,0 +1,17 @@
+Time,Symbol,Price,Quantity,Type,Status,Value,Tag 
+2016-08-08T13:50:00Z,SPY,199.436981796,50,Market,Filled,9971.8490898,Warning: No quote information available at 08/06/2016 00:00:00 America/New_York, order filled using TradeBar data 
+2016-08-08T13:50:00Z,SPY,195.0092138358,-50,Stop Market,Filled,-9750.46069179,Stop Price: ¤195.01 
+2016-11-10T14:50:00Z,SPY,198.88974616,49,Market,Filled,9745.59756184,Warning: No quote information available at 11/10/2016 00:00:00 America/New_York, order filled using TradeBar data 
+2016-11-10T14:50:00Z,SPY,242.773431131,-49,Stop Market,Filled,-11895.898125419,Stop Price: ¤193.89 
+2018-05-10T13:50:00Z,SPY,254.9788549,46,Market,Filled,11729.0273254,Warning: No quote information available at 05/10/2018 00:00:00 America/New_York, order filled using TradeBar data 
+2018-05-10T13:50:00Z,SPY,251.1113836266,-46,Stop Market,Filled,-11551.123646824,Stop Price: ¤248.51 
+2018-12-03T14:50:00Z,SPY,263.16454351,44,Market,Filled,11579.23991444,Warning: No quote information available at 12/01/2018 00:00:00 America/New_York, order filled using TradeBar data 
+2018-12-03T14:50:00Z,SPY,257.8076915106,-44,Stop Market,Filled,-11343.538426466,Stop Price: ¤257.81 
+2019-01-16T14:50:00Z,SPY,250.009444735,45,Market,Filled,11250.425013075,Warning: No quote information available at 01/16/2019 00:00:00 America/New_York, order filled using TradeBar data 
+2019-01-16T14:50:00Z,SPY,291.102765138,-45,Stop Market,Filled,-13099.62443121,Stop Price: ¤243.88 
+2020-04-13T13:50:00Z,SPY,273.80877992,48,Market,Filled,13142.82143616,Warning: No quote information available at 04/10/2020 00:00:00 America/New_York, order filled using TradeBar data 
+2020-04-13T13:50:00Z,SPY,318.243096675,-48,Stop Market,Filled,-15275.6686404,Stop Price: ¤266.21 
+2020-10-06T13:50:00Z,SPY,337.213600728,45,Market,Filled,15174.61203276,Warning: No quote information available at 10/06/2020 00:00:00 America/New_York, order filled using TradeBar data 
+2020-10-06T13:50:00Z,SPY,324.211781298,-45,Stop Market,Filled,-14589.53015841,Stop Price: ¤329.45 
+2020-11-06T14:50:00Z,SPY,347.615056272,42,Market,Filled,14599.832363424,Warning: No quote information available at 11/06/2020 00:00:00 America/New_York, order filled using TradeBar data 
+2020-11-06T14:50:00Z,SPY,0,-42,Stop Market,9,0,Stop Price: ¤338.41 
